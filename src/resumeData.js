@@ -23,7 +23,7 @@ let resumeData = {
           },
         {
             "name":"resume",
-            "url":"assets/AshleyYeResume-Freshman.pdf",
+            "url":"assets/AshleyYeResume-Accel.pdf",
             "className":"fa fa-paperclip"
           },
       ],
