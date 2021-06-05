@@ -3,8 +3,7 @@ let resumeData = {
     "name": "Ashley Ye",
     "role": "student studying Electrical Engineering and Computer Science at UC Berkeley",
     "linkedinId":"ashlye",
-    "skypeid": "Your skypeid",
-    "roleDescription": " I'm interested in machine learning, web development, and software engineering, but I'm open to all opportunities.",
+    "roleDescription": " I'm interested in machine learning and web development, but I'm still exploring the different fields within computer science.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -36,18 +35,27 @@ let resumeData = {
         "specialization":"B.S. Electrical Engineering and Computer Science",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2020",
-        "Achievements":"Coursework: Data Structures, Discrete Mathematics and Probability Theory, Structure and Interpretation of Computer Programs, Designing Information Devices and Systems I, Multivariable Calculus"
+        "Achievements":"Coursework: Algorithms and Intractability, Data Structures, Discrete Mathematics and Probability Theory, Structure and Interpretation of Computer Programs, Linear Algebra and Circuits, Multivariable Calculus"
       },
     ],
     "work":[
       {
-        "CompanyName":"NASA Goddard Space Flight Center",
-        "specialization":"Business Marketing Intern",
+        "CompanyName":"Major League Hacking",
+        "specialization":"Production Engineering Fellow",
+        "MonthOfStarting":"Jun",
+        "YearOfStarting":"2021",
+        "MonthOfLeaving": "Present",
+        "YearOfLeaving":"",
+        "Achievements":"Selected from over 20,000 applicants for joint program with Facebook"
+      },
+      {
+        "CompanyName":"Early Charm",
+        "specialization":"Computer Vision Intern",
         "MonthOfStarting":"Jun",
         "YearOfStarting":"2018",
-        "MonthOfLeaving":"Aug",
-        "YearOfLeaving":"2019",
-        "Achievements":"Raised public awareness for the concept and importance of NASA spinoffs through user-friendly visuals with the Strategic Partnerships Office."
+        "MonthOfLeaving":"Present",
+        "YearOfLeaving":"",
+        "Achievements":"Developing a machine learning-based fall detection algorithm"
       },
       {
         "CompanyName":"The Farside Review",
@@ -59,7 +67,7 @@ let resumeData = {
       },
       {
         "CompanyName":"Berkeley PlexTech",
-        "specialization":"Web Development Curriculum Student",
+        "specialization":"Software Developer",
         "MonthOfStarting":"Sept",
         "YearOfStarting":"2020",
         "MonthOfLeaving":"Dec",
@@ -68,11 +76,20 @@ let resumeData = {
       },
       {
         "CompanyName":"Berkeley IEEE",
-        "specialization":"Technical Operations Officer",
+        "specialization":"Technical Operations Director",
         "MonthOfStarting":"Sept",
         "YearOfStarting":"2020",
         "MonthOfLeaving":"Present",
         "Achievements":"Maintains website and submission manager for the quarterly online literary magazine."
+      },
+      {
+        "CompanyName":"NASA Goddard Space Flight Center",
+        "specialization":"Business Marketing Intern",
+        "MonthOfStarting":"Jun",
+        "YearOfStarting":"2018",
+        "MonthOfLeaving":"Aug",
+        "YearOfLeaving":"2019",
+        "Achievements":"Raised public awareness for the concept and importance of NASA spinoffs through user-friendly visuals with the Strategic Partnerships Office."
       },
     ],
     /*"skillsDescription":"Your skills here",
