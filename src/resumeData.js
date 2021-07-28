@@ -3,7 +3,7 @@ let resumeData = {
   "pronouns": "she/her",
   "role": "student studying Electrical Engineering and Computer Science at UC Berkeley",
   "linkedinId": "ashlye",
-  "roleDescription": " I'm interested  in engineering optimal software, whether it's through building scalable infrastructure or designing more accurate models.",
+  "roleDescription": " I'm interested  in engineering optimal software—whether it's through building scalable infrastructure or designing more accurate models.",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -59,7 +59,7 @@ let resumeData = {
       "YearOfStarting": "2018",
       "MonthOfLeaving": "Present",
       "YearOfLeaving": "",
-      "Achievement1": "• Built fall detection machine learning model prototype to prevent 1,000,000+ in-hospital injuries \
+      "Achievement1": "Built fall detection machine learning model prototype to prevent 1,000,000+ in-hospital injuries \
         in 6,000+ hospitals across the US and save US healthcare systems over $34 billion per year",
       "Achievement2": " Designed object-tracking algorithm using Python and scikit-image to detect human patients \
         based on video footage from 10 separate falls, reaching 99% accuracy within 2 seconds"
