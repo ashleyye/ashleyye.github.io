@@ -35,20 +35,22 @@ let resumeData = {
       "specialization": "B.S. Electrical Engineering and Computer Science",
       "MonthOfPassing": "Aug",
       "YearOfPassing": "2020",
-      "Achievements": "Coursework: Algorithms & Intractability, Data Structures, Computer Architecture, Discrete Mathematics & Probability, \
+      "MonthOfLeaving": "May",
+      "YearOfLeaving": "2024",
+      "Achievements": "Algorithms & Intractability, Data Structures, Computer Architecture, Discrete Mathematics & Probability, \
         Computer Programs, Linear Algebra & Circuits, Multivariable Calculus"
     },
   ],
   "work": [
     {
-      "CompanyName": "Major League Hacking",
+      "CompanyName": "Facebook",
       "specialization": "Production Engineering Fellow",
       "MonthOfStarting": "Jun",
       "YearOfStarting": "2021",
       "MonthOfLeaving": "Present",
       "YearOfLeaving": "",
-      "Achievement1": " Built and tested portfolio web-app with user authentication using Flask, SQL, and bash scripting \
-        to support site reliability infrastructure",
+      "Achievement1": " Built interactive digital accessibility LMS with user authentication using React, SQL, and Flask \
+      to support site reliability infrastructure through joint fellowship with Major League Hacking",
       "Achievement2": "Integrated linter check CI/CD pipeline using Github Actions and web host containerization using \
         Docker"
     },
