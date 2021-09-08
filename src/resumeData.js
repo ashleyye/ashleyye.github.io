@@ -47,8 +47,8 @@ let resumeData = {
       "specialization": "Production Engineering Fellow",
       "MonthOfStarting": "Jun",
       "YearOfStarting": "2021",
-      "MonthOfLeaving": "Present",
-      "YearOfLeaving": "",
+      "MonthOfLeaving": "August",
+      "YearOfLeaving": "2021",
       "Achievement1": " Built interactive digital accessibility LMS with user authentication using React, SQL, and Flask \
       to support site reliability infrastructure through joint fellowship with Major League Hacking",
       "Achievement2": "Integrated linter check CI/CD pipeline using Github Actions and web host containerization using \
@@ -58,21 +58,21 @@ let resumeData = {
       "CompanyName": "Early Charm",
       "specialization": "Computer Vision Intern",
       "MonthOfStarting": "Jun",
-      "YearOfStarting": "2018",
-      "MonthOfLeaving": "Present",
-      "YearOfLeaving": "",
+      "YearOfStarting": "2021",
+      "MonthOfLeaving": "July",
+      "YearOfLeaving": "2021",
       "Achievement1": "Built fall detection machine learning model prototype to prevent 1,000,000+ in-hospital injuries \
         in 6,000+ hospitals across the US and save US healthcare systems over $34 billion per year",
       "Achievement2": " Designed object-tracking algorithm using Python and scikit-image to detect human patients \
         based on video footage from 10 separate falls, reaching 99% accuracy within 2 seconds"
     },
     {
-      "CompanyName": "Berkeley PlexTech",
+      "CompanyName": "ScholarHub",
       "specialization": "Software Developer",
-      "MonthOfStarting": "Sept",
-      "YearOfStarting": "2020",
-      "MonthOfLeaving": "Dec",
-      "YearOfLeaving": "2020",
+      "MonthOfStarting": "Feb",
+      "YearOfStarting": "2021",
+      "MonthOfLeaving": "May",
+      "YearOfLeaving": "2021",
       "Achievement1": " Built full-stack education platform for ScholarHub using React, Node.js, and MongoDB, geared \
         toward supporting 2,000+ student users worldwide",
       "Achievement2": "Designed and implemented a machine learning-based student topic strengths and weaknesses \
