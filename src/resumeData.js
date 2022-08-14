@@ -37,13 +37,25 @@ let resumeData = {
       "YearOfPassing": "2020",
       "MonthOfLeaving": "May",
       "YearOfLeaving": "2024",
-      "Achievements": "Algorithms & Intractability, Data Structures, Computer Architecture, Discrete Mathematics & Probability, \
-        Computer Programs, Linear Algebra & Circuits, Multivariable Calculus"
+      "Achievements": "Algorithms & Intractability, Data Structures, Operating Systems & Systems Programming, Computer Architecture, Artificial Intelligence, Discrete Mathematics & Probability, \
+        Computer Programs, Probability & Random Processes, Linear Algebra & Circuits, Differential Equations & Control, Multivariable Calculus"
     },
   ],
   "work": [
     {
-      "CompanyName": "Facebook",
+      "CompanyName": "Google",
+      "specialization": "Software Engineering Intern",
+      "MonthOfStarting": "May",
+      "YearOfStarting": "2022",
+      "MonthOfLeaving": "August",
+      "YearOfLeaving": "2022",
+      "Achievement1": "Increased efficiency of internal operating system by developing a CLI mechanism to handle \
+      installations and upgrades for thousands of Linux production machines",
+      "Achievement2": "Improved central package management utility by supporting customization of device subset filters \
+      using CLI flags and HTTP requests"
+    },
+    {
+      "CompanyName": "Meta",
       "specialization": "Production Engineering Fellow",
       "MonthOfStarting": "Jun",
       "YearOfStarting": "2021",
@@ -83,7 +95,8 @@ let resumeData = {
       "specialization": "Web Development Manager",
       "MonthOfStarting": "Dec",
       "YearOfStarting": "2020",
-      "MonthOfLeaving": "Present",
+      "MonthOfLeaving": "Aug",
+      "YearOfLeaving": "2021",
       "Achievement1": "Maintain website infrastructure for quarterly online literary magazine handling 1,000+ monthly \
         visitor requests",
       "Achievement2": " Added additional features including interactive \"Features\" blog and newsletter subscription \
@@ -94,7 +107,8 @@ let resumeData = {
       "specialization": "Technical Operations Director",
       "MonthOfStarting": "Sept",
       "YearOfStarting": "2020",
-      "MonthOfLeaving": "Present",
+      "MonthOfLeaving": "Dec",
+      "YearOfLeaving": "2021",
       "Achievement1": "Organized and hosted inaugural open source hackathon, OpenHacks, amplifying awareness for open source practices",
       "Achievement2": "Maintained Berkeley IEEE's technological infrastructure, including the server and website, using Linux and updates documentation in the IEEE wiki"
     },
