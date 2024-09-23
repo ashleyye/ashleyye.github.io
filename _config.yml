@@ -19,7 +19,7 @@ compass:
   include_analytics: false
 
 # exclude
-exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 # Dependencies
 markdown: kramdown
