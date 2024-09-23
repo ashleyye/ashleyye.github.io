@@ -1,15 +1,19 @@
 ---
 ---
 
-$text-color: #46433A;
-$anchor-text-color: #CE534D;
-$background-color: #F1EED9;
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
+$text-color: #141414;
+$anchor-text-color: #d66772;
+$background-color: #f5f5f9;
 
 body {
-	font-family: 'Vollkorn', serif;
+	font-family: "Karla", sans-serif;
 	color: $text-color;
 	background-color: $background-color;
-}
+	height: 100vh;
+  }
 
 header,
 main {
@@ -31,7 +35,7 @@ a:active {
 }
 
 a:hover {
-	text-decoration: underline;
+	color: #f0b3a4;
 }
 
 
@@ -60,14 +64,12 @@ since it must be aligned with the content */
 }
 
 .logo {
-	width: 96px;
-	height: 96px;
+	width: 192px;
+	height: 192px;
 	display: inline-block;
 	background-size: cover;
 	border-radius: 50%;
 	-moz-border-radius: 50%;
-	border: 2px solid $background-color;
-	box-shadow: 0 0 0 3px $text-color;
 }
 
 /*** author ***/
@@ -118,6 +120,9 @@ footer {
 		width: 480px;
 		margin: 10% auto 0 auto;
 	}
+	.link-list {
+		text-align: center;
+	}
 }
 
 /* All other devices (768px and up) */
@@ -125,14 +130,14 @@ footer {
 	/* past 768px the layout is changed and the wrapper has a fixed width of 680px
 	to accomodate both the header column and the content column */
 	.wrapper {
-		width: 680px;
+		width: 768px;
 	}
 
 	/* the header column stays left and has a dynamic width with all contents
 	aligned right */
 	header {
 		float: left;
-		width: 46%;
+		width: 42%;
 		text-align: right;
 	}
 
@@ -143,8 +148,14 @@ footer {
 	}
 
 	main {
-		width: 46%;
+		width: 65%;
 		margin-left: 54%;
 		padding: 0;
 	}
+
+	.link-list {
+		margin-top: 10px;
+		text-align: right;
+	}
+	
 }
