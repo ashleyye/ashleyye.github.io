@@ -1,8 +1,8 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&display=swap');
 $text-color: #141414;
 $anchor-text-color: #d66772;
@@ -75,8 +75,8 @@ since it must be aligned with the content */
 /*** author ***/
 .author-container h1 {
 	font-size: 2.8em;
-	margin-top: 0;
-	margin-bottom: 0;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	text-align: center;
 }
 
@@ -85,6 +85,11 @@ since it must be aligned with the content */
 	font-size: 1.3em;
 	text-align: center;
 	margin-bottom: 2em;
+}
+
+.link-list {
+	text-align: center;
+	margin-bottom: 20px;
 }
 
 /******/
@@ -150,7 +155,6 @@ footer {
 	main {
 		width: 65%;
 		margin-left: 54%;
-		padding: 0;
 	}
 
 	.link-list {
